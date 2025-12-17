@@ -1,0 +1,7 @@
+# Requirements for the application
+# Note: This application uses only Python standard library modules
+# No external dependencies are required
+
+# For development and testing (optional):
+# pytest>=6.0.0
+# coverage>=5.0.0
